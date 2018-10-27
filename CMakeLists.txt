@@ -4,6 +4,6 @@ project(tech_park_algo_task1)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(tech_park_algo_task1
-        dz7_2.cpp
-#        est.cpp
+        dz5_2.cpp
+#       test.cpp
         )

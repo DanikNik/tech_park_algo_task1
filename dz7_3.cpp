@@ -1,3 +1,7 @@
+//
+// Created by daniknik on 27.10.18.
+//
+
 #include <iostream>
 #include <climits>
 #include <algorithm>
